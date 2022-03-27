@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="StaticBlockAndMethod"/>
+    <fullyQualifiedTypeName name="com.sun.java_cup.internal.runtime.Scanner"/>
+    <fullyQualifiedTypeName name="package2.class_C"/>
+    <fullyQualifiedTypeName name="package1.A"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="jdk.internal.misc.FileSystemOption"/>
+    <fullyQualifiedTypeName name="OuterClass.Inner"/>
+    <fullyQualifiedTypeName name="StaticInnerClass.Outer.Inner"/>
+    <fullyQualifiedTypeName name="nonStaticInner.Outer.Inner"/>
+</qualifiedTypeNameHistroy>

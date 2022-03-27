@@ -1,0 +1,42 @@
+
+public class IfElseLadder {
+
+	
+	static int passingMarks= 35;
+	
+	public static void main(String[] args) {
+		int mathsMarks= 40;
+		int PhysicsMarks= 36;
+		int ChemistryMarks= 90;
+		
+		
+		if (mathsMarks<passingMarks)
+		{
+			System.out.println("Student failed in maths");
+		}
+		else
+		{
+			System.out.println("Pass in maths");
+		}
+		if (PhysicsMarks<passingMarks)
+		{
+			System.out.println("Student failed in maths");
+		}
+		else
+		{
+			System.out.println("Pass in physics");
+		}
+		if (ChemistryMarks<passingMarks)
+		{
+			System.out.println("Student failed in maths");
+		}
+		else
+		{
+			System.out.println("Pass in chemistry");
+		}
+		
+
+		
+	}
+
+}

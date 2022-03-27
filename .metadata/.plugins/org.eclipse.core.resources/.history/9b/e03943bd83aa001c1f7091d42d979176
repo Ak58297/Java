@@ -1,0 +1,19 @@
+
+public class ThisKeyword {
+
+	int a=9;
+	 
+	ThisKeyword() //Constructor
+	{
+		System.out.println(this); //this keyword is used to point to object members
+		System.out.println(this.a);
+	}
+	
+	
+	public static void main(String[] args) {
+		
+		new ThisKeyword();
+		new ThisKeyword();
+		
+	}
+}
