@@ -18,7 +18,7 @@ public class Developer extends Employee {
 	
 	
 	@Override
-	protected void work()
+	protected void work() // run time polymorphism
 	{
 		super.work();
 		

@@ -4,9 +4,13 @@
     <fullyQualifiedTypeName name="com.sun.java_cup.internal.runtime.Scanner"/>
     <fullyQualifiedTypeName name="package2.class_C"/>
     <fullyQualifiedTypeName name="package1.A"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="jdk.internal.misc.FileSystemOption"/>
     <fullyQualifiedTypeName name="OuterClass.Inner"/>
     <fullyQualifiedTypeName name="StaticInnerClass.Outer.Inner"/>
     <fullyQualifiedTypeName name="nonStaticInner.Outer.Inner"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.util.Map"/>
+    <fullyQualifiedTypeName name="java.util.HashMap"/>
+    <fullyQualifiedTypeName name="sun.jvm.hotspot.gc.parallel.PSYoungGen"/>
 </qualifiedTypeNameHistroy>

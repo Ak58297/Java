@@ -10,7 +10,8 @@ public class ObjectAndString {
 
 		Long z=Long.valueOf(s);		
 		
-		
+		System.out.println(z);
+
 
 		
 	}

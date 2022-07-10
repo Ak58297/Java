@@ -2,16 +2,16 @@ package com.encap.ja;
 
 public class ClassA {
 	
-	private int empID;
+	private int empID1;
 	private String name;
 	private String company;
 	
 	public int getEmpID() {
-		return empID;
+		return empID1;
 	}
 
 	public void setEmpID(int empID) {
-		this.empID = empID;
+		this.empID1 = empID;
 	}
 
 	public String getName()
